@@ -1,2 +1,4 @@
 this is naveen....
 processing the user data
+
+creating an avatar for user
